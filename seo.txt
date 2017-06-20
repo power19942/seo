@@ -1,0 +1,35 @@
+<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index,follow">
+  <meta property="og:site_name" content="اسم الموقع">
+  <meta property="fb:app_id" content="رمز التطبيق">
+  <meta name="alexaVerifyID" content="رقم حسابك في الكسا">
+  <meta property="fb:admins" content="رقم ID لحسابك على القايبوك">
+  <meta property="fb:pages" content="أي دي الصفحة الحاصة بك">
+  <title>
+    عنوان المقالة
+  </title>
+  <meta property="og:title" content="عنوان المقالة">
+  <meta property="article:publisher" content="رابط صفحتك على الفايسبوك">
+  <meta property="article:author" content="رابط حسابط أو صفحتك على الفايسبوك">
+  <meta name="description" content="وصف المقالة">
+  <meta name="keywords" content="الكلمات الدلالية ويفصل بينها بفاصلة ,مثل هذه">
+  <meta name="news_keywords" content="الكلمات الدلالية ويفصل بينها بفاصلة ,مثل هذه">
+  <meta property="article:tag" content="كلمة دلالية واحدة">
+  <meta property="article:tag" content="كلمة دلالية واحدة يمكن تكرارها أكثر من مرة">
+  <meta property="article:section" content="قسم المقال : مثلا تكنولوجيا">
+  <meta property="article:published_time" content="تاريخ النشر">
+  <meta property="article:modified_time" content="تاريخ اخر تعديل للمقالة">
+  <meta property="og:updated_time" content="تاريخ اخر تحديث  للموقع">
+  <meta name="twitter:card" content="ملخص المقالة لتويتر">
+  <meta name="twitter:site" content="اسم الموقع">
+  <meta name="twitter:title" content="عنوان المقالة">
+  <meta name="twitter:description" content="ملخص المقالة أو وصفها">
+  <meta name="twitter:url" content="رابط المقالة">
+  <meta property="og:image" content="رابط صورة المقالة">
+  <meta property="twitter:image:src" content="رابط صورة المقالة">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="وصف المقالة أو ملخص منها">
+  <meta property="og:url" content="رابط المقالة">
+  <link rel="canonical" href="رابط المقالة">
